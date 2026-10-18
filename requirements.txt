@@ -1,0 +1,5 @@
+pyautogen
+pydantic
+python-dotenv
+streamlit
+pytest
