@@ -1,5 +1,13 @@
 # 🤖 BI-Code Copilot: Auditoría y Gobernanza Automatizada de SQL y DAX con IA
 
+
+
+https://github.com/user-attachments/assets/3ccf80ba-1141-4638-8283-f7ff6fa14fb8
+
+
+
+
+
 [🇪🇸 Español](#-español) | [🇬🇧 English](#-english)
 
 > ✅ **Versión 1.0 Operativa.** Herramienta de automatización interna (*Internal Tooling*) diseñada para auditar, optimizar y documentar repositorios de código analítico (T-SQL y DAX) en lote, compilando informes técnicos de arquitectura en PDF. Nacido como aplicación práctica tras superar la certificación de Inteligencia Artificial de Microsoft.
