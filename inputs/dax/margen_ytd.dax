@@ -1,0 +1,7 @@
+-- Medida DAX avanzada para el cálculo del Margen YTD
+Margen Bruto YTD = 
+CALCULATE(
+    [Total Ventas] - [Total Costes],
+    DATESYTD('Calendar'[DateKey]),
+    KEEPFILTERS(DimProduct[IsActive] = TRUE)
+)
